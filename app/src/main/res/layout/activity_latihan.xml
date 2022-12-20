@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".Latihan">
 
+
+//Button Kembali
     <Button
         android:id="@+id/Home"
         android:layout_width="wrap_content"
@@ -18,6 +20,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.976" />
 
+
+//Button Kelas 1
     <Button
         android:id="@+id/Kelas1"
         android:layout_width="wrap_content"
@@ -29,6 +33,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.428" />
 
+//Button Kelas 2
     <Button
         android:id="@+id/Kelas2"
         android:layout_width="wrap_content"
@@ -40,6 +45,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.524" />
 
+//Button Kelas 3
     <Button
         android:id="@+id/Kelas3"
         android:layout_width="wrap_content"
@@ -52,6 +58,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.619" />
 
+//Text
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"

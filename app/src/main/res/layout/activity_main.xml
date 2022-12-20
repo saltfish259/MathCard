@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
+//Text
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
@@ -17,6 +19,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.377" />
 
+
+//Button Latihan
     <Button
         android:id="@+id/Latihan"
         android:layout_width="wrap_content"
@@ -29,6 +33,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.45" />
 
+
+//Button Ujian
     <Button
         android:id="@+id/Ujian"
         android:layout_width="wrap_content"
